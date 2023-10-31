@@ -60,16 +60,16 @@ This web application is designed to predict ecommerce satisfaction based on revi
 
 ## Screenshots
 1. Homepage
-   ![App Home](Home.png)
+   ![App Home](/screenshots/Home.png)
 2. Statistical insight page
-   ![App stats1](stats1.png)
-   ![App stats2](stats2.png)
+   ![App stats1](/screenshots/stats1.png)
+   ![App stats2](/screenshots/stats2.png)
 3. Predection page
-   ![App pred1](pred1.png)
-   ![App pred2](pred2.png)
-   ![App pred3](pred3.png)
+   ![App pred1](/screenshots/pred1.png)
+   ![App pred2](/screenshots/pred2.png)
+   ![App pred3](/screenshots/pred3.png)
 4. Scarpping page
-   ![App scap1](scrap1.png)
-   ![App scap2](scrap2.png)
+   ![App scap1](/screenshots/scrap1.png)
+   ![App scap2](/screenshots/scrap2.png)
 
 
