@@ -11,7 +11,7 @@ This web application is designed to predict ecommerce satisfaction based on revi
 - [Screenshots](#screenshots)
 
 ## Architecture
-![App arch](arch.png)
+![App arch](/screenshots/arch.png)
 ## Features
 
 ### 1. Dashboard for Statistical Insights
